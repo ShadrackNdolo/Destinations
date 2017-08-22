@@ -9,7 +9,7 @@ This is a web application that displays a list of numbers i.e.  takes a number f
 
 ## How it works.
 The program should do the following functions:
-- Input : 
+-Input : 
 
 * Location visited. 
 * Starting date of visit. 
