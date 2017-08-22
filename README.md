@@ -1,9 +1,6 @@
 # Destinations
-This is a site used to show the places you have visited.
 
-# Pingpong.
-
-#### A simple portfolio website. Friday 4th August 2017.
+#### This is a site used to show the places you have visited.
 
 #### By **Ndolo Shadrack Winter**
 
