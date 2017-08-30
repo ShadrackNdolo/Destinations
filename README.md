@@ -29,7 +29,7 @@ The program should do the following functions:
 
 ## Known Bugs
 
-There are no known bugs.
+The social media links are not functional. The site would be modified to look better. 
 
 ## Technologies Used
 
